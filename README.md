@@ -2,6 +2,10 @@
 
 Copy a `DESIGN.md` into your project, tell your AI agent "build me a page that looks like this" and get UI that actually matches.
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Sponsor Avasis](https://img.shields.io/badge/Sponsor-Avasis_AI-10b981?style=for-the-badge)](https://github.com/sponsors/avasis-ai)
+[![Buy the kit](https://img.shields.io/badge/Get_the_$5_Kit-Gumroad-ff90e8?style=for-the-badge)](https://gumroad.com/)
+
 ## What is DESIGN.md?
 
 `DESIGN.md` is a new plain-text design system document that AI agents read to generate consistent UI.
@@ -14,6 +18,16 @@ It is just a markdown file. No Figma exports, no JSON schemas, no special toolin
 | `DESIGN.md` | Design agents | How the project should look and feel |
 
 This repo provides a curated `DESIGN.md` style gallery, an included MIT-licensed reference collection, original starter examples, prompts, and workflow guidance for AI builders.
+
+## Sponsor This Project
+
+If this repo saves you time, helps your AI agents build better UI, or becomes part of your workflow, consider supporting Avasis AI.
+
+- Sponsor us on GitHub: [github.com/sponsors/avasis-ai](https://github.com/sponsors/avasis-ai)
+- Get the paid shortcut kit: **73 DESIGN.md Styles Swipe File For AI Builders**
+- Star the repo and share it with builders using Cursor, Claude Code, Copilot, or Google Stitch.
+
+Funding keeps the collection maintained, improves starter examples, and helps us add better workflows for agent-native design systems.
 
 ## Why This Exists
 
