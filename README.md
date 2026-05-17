@@ -2,8 +2,6 @@
 
 Copy a `DESIGN.md` into your project, tell your AI agent "build me a page that looks like this" and get UI that actually matches.
 
-![Awesome DESIGN.md cover](assets/design-oss.png)
-
 ## What is DESIGN.md?
 
 `DESIGN.md` is a new plain-text design system document that AI agents read to generate consistent UI.
@@ -64,15 +62,24 @@ Browse the generated reference index:
 
 [`REFERENCE_INDEX.md`](REFERENCE_INDEX.md)
 
-Each reference may include:
+Each reference includes:
 
 | File | Purpose |
 |------|---------|
 | `DESIGN.md` | The design system agents read |
-| `preview.html` | Visual catalog showing colors, type, buttons, and cards |
-| `preview-dark.html` | Same catalog with dark surfaces |
 
 This repo adds selection guidance, prompts, starter examples, and workflow docs on top of the upstream collection.
+
+## Best Starting Points
+
+| Building | Start with | Why |
+|----------|------------|-----|
+| AI agent SaaS | `vercel`, `cursor`, `voltagent` | Developer precision, AI-native surfaces, agent workflow energy |
+| AI assistant | `claude`, `notion`, `linear.app` | Warm explanation, calm hierarchy, focused productivity |
+| Developer API | `vercel`, `supabase`, `mintlify` | Docs, code blocks, trust, and technical clarity |
+| Fintech product | `stripe`, `wise`, `coinbase` | Trust, validation, pricing, and transaction clarity |
+| Creator commerce | `shopify`, `airbnb`, `nike` | Product cards, buying confidence, and visual momentum |
+| Premium hardware | `apple`, `tesla`, `spacex` | Product focus, cinematic whitespace, and confident restraint |
 
 ## Collection
 
