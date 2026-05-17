@@ -10,13 +10,23 @@ This repository is an independent open-source style gallery and workflow for `DE
 
 ## What This Repo Adds
 
-This repo does not mirror the full upstream collection. It adds original:
+This repo includes an attributed copy of the upstream MIT-licensed `design-md` collection under `upstream/voltagent-awesome-design-md/`. On top of that collection, it adds original:
 
 - Style taxonomy
 - Workflow prompts
 - Starter examples
 - Selection guidance
 - Remix guidance through documentation
+- Reference index generation
+- Validation scripts
+
+## Upstream License
+
+The upstream MIT license is preserved at:
+
+```text
+upstream/voltagent-awesome-design-md/LICENSE
+```
 
 ## Brand Usage Note
 

@@ -15,7 +15,7 @@ It is just a markdown file. No Figma exports, no JSON schemas, no special toolin
 | `AGENTS.md` | Coding agents | How to build the project |
 | `DESIGN.md` | Design agents | How the project should look and feel |
 
-This repo provides a curated `DESIGN.md` style gallery, original starter examples, prompts, and workflow guidance for AI builders.
+This repo provides a curated `DESIGN.md` style gallery, an included MIT-licensed reference collection, original starter examples, prompts, and workflow guidance for AI builders.
 
 ## Why This Exists
 
@@ -35,9 +35,10 @@ Most AI-generated apps look the same because the design prompt is vague: "modern
 
 1. Pick a category from the collection below.
 2. Open [`style-taxonomy.md`](style-taxonomy.md) to choose a style family.
-3. Try one of the starter files in [`examples/`](examples/).
-4. Copy a `DESIGN.md` into your project root.
-5. Tell your AI agent to use it.
+3. Browse [`REFERENCE_INDEX.md`](REFERENCE_INDEX.md) for ready-to-use references.
+4. Try one of the starter files in [`examples/`](examples/).
+5. Copy a `DESIGN.md` into your project root.
+6. Tell your AI agent to use it.
 
 ```text
 Before editing UI, read DESIGN.md and treat it as the visual source of truth. Use its colors, typography, spacing, component rules, and do/don't guidance.
@@ -50,6 +51,28 @@ Want the faster ready-made workflow?
 Get the **73 DESIGN.md Styles Swipe File For AI Builders**: style chooser, remix-not-copy guide, Cursor workflow, launch recipes, full prompt pack, and Gumroad-ready assets.
 
 Limited launch price: `$5` instead of `$29`.
+
+## Included Reference Library
+
+This repo includes a copy of the MIT-licensed `design-md` collection from [`VoltAgent/awesome-design-md`](https://github.com/VoltAgent/awesome-design-md), preserved under:
+
+```text
+upstream/voltagent-awesome-design-md/
+```
+
+Browse the generated reference index:
+
+[`REFERENCE_INDEX.md`](REFERENCE_INDEX.md)
+
+Each reference may include:
+
+| File | Purpose |
+|------|---------|
+| `DESIGN.md` | The design system agents read |
+| `preview.html` | Visual catalog showing colors, type, buttons, and cards |
+| `preview-dark.html` | Same catalog with dark surfaces |
+
+This repo adds selection guidance, prompts, starter examples, and workflow docs on top of the upstream collection.
 
 ## Collection
 
@@ -161,6 +184,15 @@ This repo includes original starter systems you can use immediately:
 | [`examples/creator-commerce/DESIGN.md`](examples/creator-commerce/DESIGN.md) | Creator stores, digital products, marketplaces |
 | [`examples/editorial-saas/DESIGN.md`](examples/editorial-saas/DESIGN.md) | Research tools, writing apps, knowledge products |
 
+These examples lint with `npx @google/design.md lint` with zero errors. Some warnings are expected because starter palettes include useful roles that small sample component sets may not reference yet.
+
+## Guides
+
+- [`guides/choose-a-style.md`](guides/choose-a-style.md) — pick a style based on what you are building.
+- [`guides/agent-workflow.md`](guides/agent-workflow.md) — apply `DESIGN.md` with Cursor, Claude Code, or another coding agent.
+- [`guides/remix-safely.md`](guides/remix-safely.md) — use references without cloning brands.
+- [`prompts/free-prompts.md`](prompts/free-prompts.md) — free prompts for creating, applying, and auditing `DESIGN.md`.
+
 ## What's Inside Each DESIGN.md
 
 Every strong `DESIGN.md` should capture:
@@ -197,4 +229,4 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) for guidelines.
 
 MIT License. See [`LICENSE`](LICENSE).
 
-This repository includes original workflow guidance and starter `DESIGN.md` files. Brand names mentioned in the collection are descriptive references only. We do not claim ownership of any company's visual identity. See [`ATTRIBUTION.md`](ATTRIBUTION.md).
+This repository includes original workflow guidance and starter `DESIGN.md` files plus an attributed MIT-licensed upstream reference collection. Brand names mentioned in the collection are descriptive references only. We do not claim ownership of any company's visual identity. See [`ATTRIBUTION.md`](ATTRIBUTION.md) and [`UPSTREAM_NOTICE.md`](UPSTREAM_NOTICE.md).
