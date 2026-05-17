@@ -5,7 +5,11 @@ Copy a `DESIGN.md` into your project, tell your AI agent "build me a page that l
 [![Curated by Avasis](https://img.shields.io/badge/Curated_by-Avasis_AI-58D5F7?style=for-the-badge)](https://github.com/avasis-ai)
 [![Agent Native Design](https://img.shields.io/badge/Agent_Native-Design.md-111827?style=for-the-badge)](https://github.com/google-labs-code/design.md)
 [![Sponsor Avasis](https://img.shields.io/badge/Sponsor-Avasis_AI-10b981?style=for-the-badge)](https://github.com/sponsors/avasis-ai)
-[![Buy the kit](https://img.shields.io/badge/Get_the_$5_Kit-Gumroad-ff90e8?style=for-the-badge)](https://gumroad.com/)
+[![Buy the kit](https://img.shields.io/badge/Get_the_$5_Kit-Gumroad-ff90e8?style=for-the-badge)](https://avasis.gumroad.com/l/awesome-design-md)
+
+<!-- Add product cover image here when ready:
+![Awesome DESIGN.md cover](assets/cover.png)
+-->
 
 ## What is DESIGN.md?
 
@@ -25,7 +29,7 @@ This repo provides a curated `DESIGN.md` style gallery, an included MIT-licensed
 If this repo saves you time, helps your AI agents build better UI, or becomes part of your workflow, consider supporting Avasis AI.
 
 - Sponsor us on GitHub: [github.com/sponsors/avasis-ai](https://github.com/sponsors/avasis-ai)
-- Get the paid shortcut kit: **73 DESIGN.md Styles Swipe File For AI Builders**
+- Get the paid shortcut kit: [**Stop Making Ugly AI Apps**](https://avasis.gumroad.com/l/awesome-design-md)
 - Star the repo and share it with builders using Cursor, Claude Code, Copilot, or Google Stitch.
 
 Funding keeps the collection maintained, improves starter examples, and helps us add better workflows for agent-native design systems.
@@ -61,7 +65,7 @@ Before editing UI, read DESIGN.md and treat it as the visual source of truth. Us
 
 Want the faster ready-made workflow?
 
-Get the **73 DESIGN.md Styles Swipe File For AI Builders**: style chooser, remix-not-copy guide, Cursor workflow, launch recipes, full prompt pack, and Gumroad-ready assets.
+Get [**Stop Making Ugly AI Apps**](https://avasis.gumroad.com/l/awesome-design-md): style chooser, remix-not-copy guide, Cursor workflow, launch recipes, full prompt pack, and Gumroad-ready assets.
 
 Limited launch price: `$5` instead of `$29`.
 
