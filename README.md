@@ -2,7 +2,8 @@
 
 Copy a `DESIGN.md` into your project, tell your AI agent "build me a page that looks like this" and get UI that actually matches.
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Curated by Avasis](https://img.shields.io/badge/Curated_by-Avasis_AI-58D5F7?style=for-the-badge)](https://github.com/avasis-ai)
+[![Agent Native Design](https://img.shields.io/badge/Agent_Native-Design.md-111827?style=for-the-badge)](https://github.com/google-labs-code/design.md)
 [![Sponsor Avasis](https://img.shields.io/badge/Sponsor-Avasis_AI-10b981?style=for-the-badge)](https://github.com/sponsors/avasis-ai)
 [![Buy the kit](https://img.shields.io/badge/Get_the_$5_Kit-Gumroad-ff90e8?style=for-the-badge)](https://gumroad.com/)
 
